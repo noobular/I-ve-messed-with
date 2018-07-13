@@ -1,0 +1,15 @@
+// To-Add ///////////////////////////////////////////
+
+// Functionality
+-- Modals or tooltip for selling items.
+
+
+
+
+
+// FIX ///////////////////////////////////////////
+
+// Functionality
+
+// Cosmetics
+-- Add all the color codes and their equalivalent qualities
