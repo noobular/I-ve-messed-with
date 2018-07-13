@@ -1,2 +1,2 @@
-# I-ve-messed-with
-This is the location of either unfinished projects, or projects that probably don't need their own repository
+# I've messed with... 
+This is where I'm going to be putting all either unfinished or projects that are small enough or lack the progress for an entire repository to themselves, in my opinion.
