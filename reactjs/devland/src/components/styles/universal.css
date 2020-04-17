@@ -1,0 +1,16 @@
+@font-face
+{
+    font-family: 'devland';
+    src:url('../styles/Blockt.ttf')
+}
+
+.list-group-item{
+    font-family:'Roboto', sans-serif;
+}
+
+.WikiPage{
+    min-height: 100vh !important;
+}
+.body{
+    background-color: #33333b;
+}

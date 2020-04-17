@@ -1,0 +1,1064 @@
+[
+    {
+        "language" : "HTML5",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "CSS",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "JavaScript",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "JQuery",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "JSON",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "PHP",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "Angular",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "React",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "Vue",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "MySQL",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "Ruby",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "Python",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "Lua",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "Java",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "Kotlin",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "C",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "C++",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    },
+    {
+        "language" : "C#",
+        "subcategories": [
+            ["Introduction",[]],
+
+            ["Elements",
+                [
+                    "Elements",
+                    "Nested Elements",
+                    "Empty Elements"
+                ]
+            ],
+            ["Attributes",[]],
+            ["Headings",
+                [
+                    "Head Tag",
+                    "Heading Tags"
+                ]
+            ],
+            ["Paragraphs", []],
+            ["Styles",
+                [
+                    "Style Attribute",
+                    "Background Color",
+                    "Text Color",
+                    "Text Size",
+                    "Fonts",
+                    "Text Alignment"
+                ]
+            ],
+            ["Formatting",[]],
+            ["Comments",[]],
+            ["Colors",[]],
+            ["Links",
+                [
+                    "Links",
+                    "Link Colors",
+                    "Link Bookmarks"
+                ]
+            ],
+            ["Images",
+                [
+                    "Images",
+                    "Image Map",
+                    "Background Images",
+                    "The Picture Element"
+                ]
+            ],
+            ["Tables",[]],
+            ["List",[]],
+            ["Blocks",[]],
+            ["Classes",[]],
+            ["ID",[]],
+            ["IFrames",[]],
+            ["Head",[]],
+            ["Layout",[]],
+            ["Responsive",[]]
+        ]
+    }
+]
