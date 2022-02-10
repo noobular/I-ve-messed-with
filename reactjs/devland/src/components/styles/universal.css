@@ -1,11 +1,11 @@
 @font-face
 {
-    font-family: 'devland';
-    src:url('../styles/Blockt.ttf')
+    font-family: 'Dongle', sans-serif;
+    src:url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&display=swap')
 }
 
 .list-group-item{
-    font-family:'Roboto', sans-serif;
+    font-family:'Dongle', sans-serif;
 }
 
 .WikiPage{
@@ -13,4 +13,5 @@
 }
 .body{
     background-color: #33333b;
+    font-Family:'dongle' !important;
 }

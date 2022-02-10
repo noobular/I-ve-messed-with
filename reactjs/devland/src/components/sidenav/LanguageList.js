@@ -7,7 +7,7 @@ class LanguageList extends Component {
     state = {  }
     render() {
         return (
-            <div id="LanguageList" >
+            <div id="LanguageList" style={{fontSize:30, margin:0,padding:0}}>
                 {languages.map((lang,index)=>{
                     return(<NavbarLanguage language={lang.language} subcategories={lang.subcategories}  key={uuidv4()}></NavbarLanguage>)
                 })}
